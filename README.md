@@ -1,4 +1,4 @@
-# Feed Forward NeuralNetwork 
+# Feed Forward Neural Network 
 Computer Assignment #5 Phase 1, Artificial Intelligence Course, University of Tehran
 
 In this project, we implement **Feed Forward neural networks** to classify images.
